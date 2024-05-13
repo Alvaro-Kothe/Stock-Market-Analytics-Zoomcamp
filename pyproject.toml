@@ -6,6 +6,7 @@ python = "~3.11"
 jupyterlab = "^4.1.6"
 pandas-datareader = "^0.10.0"
 yfinance = "^0.2.37"
+fastparquet = "^2024.2.0"
 
 
 [build-system]
